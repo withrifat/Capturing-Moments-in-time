@@ -45,8 +45,6 @@ body{
     font-weight: 700;
     line-height: 78px;
 }
-/* this section for nav bar */
-
 /* custom.css */
 .navbar-nav {
     display: flex; /* Use flexbox to arrange items in a row */
@@ -55,4 +53,4 @@ body{
     justify-content: space-between; /* Distribute space evenly between items */
     width: 70%;
 }
-/* image gallary section */
+
